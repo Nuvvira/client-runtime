@@ -1,5 +1,13 @@
 {
-  "version": "2026.04.23",
+  "schemaVersion": 2,
+  "version": "2026.04.24",
   "scriptUrl": "https://nuvvira.github.io/client-runtime/bridge.js",
-  "signature": "BPliGvMvlpQYdHc5RQxnyIP4/rr2PLenU/L4+wavl0jcMLUoDJLglyc84eEkinY4ngBTqrM6z1AGE2quHnRoaQEHmTtnp2sHAlpTREEsAgwia1WJFKASWQnpCiihHi+7aFUDPlf6iq8UlNVwm4fqtdlHl1eGG+2KqJGVJvg9hqV7IN0RGZgIm6EfMQIvbmSiA7UIxjcx2IKdidXnho3kxmj6TCA9DurEynNKhPUa7W7HcH6wYdddVqvWWhvunaqe0400Ku3qfs2naJFUveKRibCcJh34/HiiqdPRUBv1gNR35D759QvpEGiSe2u9dPls9MhndaEEiOU9+CtNN6U8Cw=="
+  "signature": "BPliGvMvlpQYdHc5RQxnyIP4/rr2PLenU/L4+wavl0jcMLUoDJLglyc84eEkinY4ngBTqrM6z1AGE2quHnRoaQEHmTtnp2sHAlpTREEsAgwia1WJFKASWQnpCiihHi+7aFUDPlf6iq8UlNVwm4fqtdlHl1eGG+2KqJGVJvg9hqV7IN0RGZgIm6EfMQIvbmSiA7UIxjcx2IKdidXnho3kxmj6TCA9DurEynNKhPUa7W7HcH6wYdddVqvWWhvunaqe0400Ku3qfs2naJFUveKRibCcJh34/HiiqdPRUBv1gNR35D759QvpEGiSe2u9dPls9MhndaEEiOU9+CtNN6U8Cw==",
+  "adapters": {
+    "bridge": {
+      "enabled": true,
+      "rolloutPercent": 100,
+      "killSwitch": false
+    }
+  }
 }
